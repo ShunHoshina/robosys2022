@@ -1,2 +1,2 @@
 # robosys2022
-test repository
+robosys class repository
