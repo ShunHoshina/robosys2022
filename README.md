@@ -7,7 +7,7 @@ robosys class repository
       * [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
   * © 2022 Shun Hoshina
 
-##　このレポジトリについて
+##  このレポジトリについて
 
   * このレポジトリはロボットシステムで学習するためのレポジトリです。
 
@@ -23,5 +23,5 @@ robosys class repository
 ## テストの結果
   * python3(3.7, 3.8, 3.9, 3.10)で動作確認できました。
 
-##　謝辞
+##  謝辞
   授業で教えていただいている上田隆一(Ryuichi Ueda)先生に感謝申し上げます。
