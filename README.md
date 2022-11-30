@@ -12,17 +12,19 @@
 ##  使い方
 
   ###  インストール方法
+* sshを使用してインストールする場合
   ```
   $ git clone git@github.com:ShunHoshina/robosys2022.git
   ```
 
+* httpsを使用してインストールする場合
   ```
   $ git clone https://github.com/ShunHoshina/robosys2022.git
   ```
 
 ## plusコマンド
-端末上で入力から読み込んだ数字を足す。
-以下は実行例です
+標準入力から読み込んだ数字を足す。
+以下は実行例です。
 ```
 $ seq 7 | ./plus
 ```
