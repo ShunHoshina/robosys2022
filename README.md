@@ -18,12 +18,13 @@
   ```
   $ git clone git@github.com:ShunHoshina/robosys2022.git
   ```
+
   ```
-  * $ git clone https://github.com/ShunHoshina/robosys2022.git
+  $ git clone https://github.com/ShunHoshina/robosys2022.git
   ```
 
 ## plusコマンド
-
+端末上で入力から読み込んだ数字を足す。
 
 ##  使用できる環境
   * python3(3.7, 3.8, 3.9, 3.10)で使用可能です。
