@@ -1,13 +1,9 @@
 # robosys2022
 ![test](https://github.com/ShunHoshina/robosys2022/actions/workflows/test.yml/badge.svg)
 
+##  このリポジトリについて
 
-
-
-
-##  このレポジトリについて
-
-  * このレポジトリはロボットシステムで学習するためのレポジトリです。
+  * このリポジトリはロボットシステムで学習するためのレポジトリです。
 
 ##  使い方
 
